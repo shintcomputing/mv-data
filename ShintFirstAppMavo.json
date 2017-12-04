@@ -1,0 +1,17 @@
+{
+	"famille": [
+		{
+			"nom-prenom": {
+				"firstName": "Baptiste",
+				"lastName": "MARTIN"
+			},
+			"anniversaire": "1994-10-08",
+			"hobby": [
+				"Veille Technologique",
+				"Basketball",
+				"League Of Legends"
+			],
+			"email": "contact@martin-baptiste.fr"
+		}
+	]
+}
